@@ -1,0 +1,9 @@
+C:\Users\Jespe\source\repos\BingoGenerator\ImageSaving\bin\Debug\ImageSaving.dll
+C:\Users\Jespe\source\repos\BingoGenerator\ImageSaving\bin\Debug\ImageSaving.pdb
+C:\Users\Jespe\source\repos\BingoGenerator\ImageSaving\obj\Debug\ImageSaving.csprojAssemblyReference.cache
+C:\Users\Jespe\source\repos\BingoGenerator\ImageSaving\obj\Debug\ImageSaving.BingoPlade.resources
+C:\Users\Jespe\source\repos\BingoGenerator\ImageSaving\obj\Debug\ImageSaving.Properties.Resources.resources
+C:\Users\Jespe\source\repos\BingoGenerator\ImageSaving\obj\Debug\ImageSaving.csproj.GenerateResource.cache
+C:\Users\Jespe\source\repos\BingoGenerator\ImageSaving\obj\Debug\ImageSaving.csproj.CoreCompileInputs.cache
+C:\Users\Jespe\source\repos\BingoGenerator\ImageSaving\obj\Debug\ImageSaving.dll
+C:\Users\Jespe\source\repos\BingoGenerator\ImageSaving\obj\Debug\ImageSaving.pdb

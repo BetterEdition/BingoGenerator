@@ -1,0 +1,10 @@
+C:\Users\Jespe\source\repos\BingoGenerator\BingoPladeGenerator\bin\Debug\BingoPladeGenerator.exe.config
+C:\Users\Jespe\source\repos\BingoGenerator\BingoPladeGenerator\bin\Debug\BingoPladeGenerator.exe
+C:\Users\Jespe\source\repos\BingoGenerator\BingoPladeGenerator\bin\Debug\BingoPladeGenerator.pdb
+C:\Users\Jespe\source\repos\BingoGenerator\BingoPladeGenerator\obj\Debug\BingoPladeGenerator.BingoPlade.resources
+C:\Users\Jespe\source\repos\BingoGenerator\BingoPladeGenerator\obj\Debug\BingoPladeGenerator.Properties.Resources.resources
+C:\Users\Jespe\source\repos\BingoGenerator\BingoPladeGenerator\obj\Debug\BingoPladeGenerator.csproj.GenerateResource.cache
+C:\Users\Jespe\source\repos\BingoGenerator\BingoPladeGenerator\obj\Debug\BingoPladeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Jespe\source\repos\BingoGenerator\BingoPladeGenerator\obj\Debug\BingoPladeGenerator.exe
+C:\Users\Jespe\source\repos\BingoGenerator\BingoPladeGenerator\obj\Debug\BingoPladeGenerator.pdb
+C:\Users\Jespe\source\repos\BingoGenerator\BingoPladeGenerator\obj\Debug\BingoPladeGenerator.csprojAssemblyReference.cache
